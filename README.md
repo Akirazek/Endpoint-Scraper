@@ -40,7 +40,7 @@ An advanced, multi-threaded web scraper designed to discover API endpoints, rout
 
 Clone and install:
 ```bash
-git clone https://github.com/yourusername/endpoint-scraper.git
+git clone https://github.com/Zejestry/endpoint-scraper.git
 cd endpoint-scraper
 pip install -r requirements.txt
 playwright install  # Install browser binaries
